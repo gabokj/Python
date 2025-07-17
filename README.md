@@ -10,6 +10,6 @@ Este repositório é dedicado ao meu aprendizado e prática em Python. Aqui voc�
 - 📝 Manipulação de arquivos e tratamento de exceções.
 - 📊 Trabalhos com bibliotecas populares (ex: NumPy, Pandas) 
 - 🛠️ Automação de tarefas, scripts utilitários e projetos simples.
-
+  
 ## 🚀 Tecnologias Utilizadas
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" alt="Python" width="30" style="vertical-align:middle;" />
